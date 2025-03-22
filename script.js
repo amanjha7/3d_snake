@@ -6,6 +6,8 @@
   Request Animation Frame
 
   ================================================*/
+
+            // Made By Aman
   
   var lastTime = 0;
   var vendors = [ 'webkit', 'moz' ];
